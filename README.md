@@ -9,16 +9,16 @@ A graphical user interface password generator written in python and use pygame f
 
 <h1> About </h1>
 <p>
-This is simple graphical user interface password generater written in python and use pygame for making user interface.
-You can choose maximum of 4096 charachter for password.
-You can make paasword that contains a mix of upper and lower case letters and digits and symbols.
+This is simple graphical user interface password generater written in python and use pygame for making user interface. <br>
+You can choose maximum of 4096 charachter for password. <br>
+You can make paasword that contains a mix of upper and lower case letters and digits and symbols. <br>
 </p>
 
 <h1> TODO </h1> 
 <p>
-Encript file of password
-Make option for seeing password in program not outside of program
-Code cleaning
+Encript file of password <br>
+Make option for seeing password in program not outside of program <br>
+Code cleaning <br>
 </p>
 
 <h1> Screenshot of program </h1>
