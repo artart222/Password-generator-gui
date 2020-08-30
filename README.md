@@ -4,12 +4,12 @@
 </p>
 
 <p>
-A graphical user interface password generator written in python and use pygame for for user interface
+A graphical user interface password generator written in python and use Qt5 for for user interface
 </p>
 
 <h1> About </h1>
 <p>
-This is simple graphical user interface password generater written in python and use pygame for making user interface. <br>
+This is simple graphical user interface password generater written in python and use Qt5 for making user interface. <br>
 You can choose maximum of 4096 charachter for password. <br>
 You can make paasword that contains a mix of upper and lower case letters and digits and symbols. <br>
 </p>
